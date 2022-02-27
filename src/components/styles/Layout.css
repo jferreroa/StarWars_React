@@ -1,0 +1,13 @@
+.layout{
+    font-size:70px;
+    display:flex;
+    border:1px solid black;
+    flex-wrap: wrap;
+    justify-content: center;
+    background:black
+}
+
+
+
+
+
